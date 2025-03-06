@@ -23,6 +23,4 @@ Before moving to UCLA, I already worked with Prof. Zhou and conducted researches
 My research interests cover multi-agent behavior modeling and human-in-the-loop agent learning. 
 Hope you enjoy my works!
 
-**I am looking for a summer internship in 2025. Please feel free to reach out if you are interested in working with me!**
-
 ([Pronunciation of my name](pronunciation))
