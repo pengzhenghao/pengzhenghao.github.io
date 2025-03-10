@@ -74,7 +74,7 @@ Pronouns: *he/him/his*
 ## Papers
 
 
-* <b>Zhenghao Peng</b>, Zhizheng Liu and Bolei Zhou. Data-Efficient Learning from Human Interventions for Mobile Robots. [[Website](https://metadriverse.github.io/pvp4real/)]
+* <b>Zhenghao Peng</b>, Zhizheng Liu and Bolei Zhou. Data-Efficient Learning from Human Interventions for Mobile Robots. (**ICRA 2025**) [[Website](https://metadriverse.github.io/pvp4real/), [PDF](https://arxiv.org/pdf/2503.04969)]
 * <b>Zhenghao Peng</b>, Wenjie Luo, Yiren Lu, Tianyi Shen, Cole Gulino, Ari Seff, and Justin Fu. Improving agent behaviors with rl fine-tuning for autonomous driving. European Conference on Computer Vision, 2024 (**ECCV 2024**)[[PDF](https://arxiv.org/pdf/2409.18343)]
 * Yunsong Zhou, Michael Simon, <b>Zhenghao Peng</b>, Sicheng Mo, Hongzi Zhu, Minyi Guo, and Bolei Zhou. SimGen: Simulator-conditioned driving scene generation. Advances in Neural Information Processing Systems, 2024 (**NeurIPS 2024**)[[PDF](https://arxiv.org/pdf/2406.09386), [Website](https://metadriverse.github.io/simgen/)]
 * Brandon J. McMahan, <b>Zhenghao Peng</b>, Bolei Zhou, and Jonathan C. Kao. Shared autonomy with: Interventional diffusion assistance. Advances in Neural Information Processing Systems, 2024 (**NeurIPS 2024**) [ [PDF](https://arxiv.org/pdf/2409.15317) ]
