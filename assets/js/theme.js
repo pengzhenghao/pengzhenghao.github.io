@@ -201,10 +201,7 @@ let setSearchTheme = (theme) => {
   }
 };
 
-
 let setZhenghaoSignTheme = (theme) => {
-
-
   // let zhenghao_sign = document.getElementById("zhenghao_sign");
   // if (!zhenghao_sign) return;
   if (theme == "dark") {
@@ -215,7 +212,7 @@ let setZhenghaoSignTheme = (theme) => {
   // else {
   //   document.getElementById("zhenghao_sign").style.filter = "invert(0%)";
   // }
-}
+};
 
 let transTheme = () => {
   document.documentElement.classList.add("transition");
