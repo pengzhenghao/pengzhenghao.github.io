@@ -861,6 +861,35 @@ footer.sticky-bottom {
       div.abstract.hidden.open {
         border-color: var(--global-text-color);
       }
+
+      // PZH: Add ours
+      .teaser {
+        border-radius: 8px;
+        height: 150px;
+        width: 200px;
+        margin-top: 5px;
+        margin-left: 5px;
+        margin-bottom: 5px;
+        object-fit: cover;
+      }
+
+      .videoplayer {
+        border-radius: 8px;
+        height: 150px;
+        width: 200px;
+        margin-top: 5px;
+        margin-left: 5px;
+        margin-bottom: 5px;
+        object-fit: cover;
+      }
+
+      .videoplayer video {
+        border-radius: 8px;
+        box-shadow: 3px 3px 6px #888;
+        height: 150px;
+        width: 200px;
+        object-fit: cover;
+      }
     }
     div.award.hidden {
       border: dashed 1px var(--global-bg-color);
