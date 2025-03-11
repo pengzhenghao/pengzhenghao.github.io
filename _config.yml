@@ -5,7 +5,7 @@
 title: Zhenghao Peng # the website title (if blank, full name will be used instead)
 first_name: Zhenghao
 middle_name:
-last_name: PENG
+last_name: Peng
 contact_note: >
 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -48,7 +48,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: false
 socials_in_search: true
 bib_search: true
