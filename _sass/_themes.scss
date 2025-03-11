@@ -82,7 +82,7 @@
 html[data-theme="dark"] {
     color-scheme: dark;
 
-    --global-bg-color: #{$white-color};
+  --global-bg-color: #{$white-color};
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
