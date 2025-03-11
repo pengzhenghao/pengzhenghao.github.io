@@ -32,18 +32,18 @@ layout: default
             <div class="float-center col-8">
 
                 <h1 class="post-title" style="padding-top: 10px; text-align: center;">
-                {% assign sign_image_path = "sign.png" | prepend: 'assets/img/' %}
-                {% assign sign_image_class = 'img-fluid' %}
-                <div style="width: 40%; margin: 0 auto;">
-                    {% include figure.liquid
-                            loading="eager"
-                            path=sign_image_path
-                            class=sign_image_class
-                            alt=page.profile.image
-                            cache_bust=true
-                    %}
-                </div>
-                    <b>Zhenghao Peng</b>
+                    {% assign sign_image_path = "sign.png" | prepend: 'assets/img/' %}
+                    {% assign sign_image_class = 'img-fluid' %}
+                    <div style="width: 40%; margin: 0 auto;">
+                        {% include figure.liquid
+                                loading="eager"
+                                path=sign_image_path
+                                class=sign_image_class
+                                alt=page.profile.image
+                                cache_bust=true
+                        %}
+                    </div>
+                    Zhenghao Peng
                 </h1>
 
                 <!-- Social -->
@@ -67,6 +67,7 @@ layout: default
 
         <!-- News -->
         {% if page.announcements and page.announcements.enabled %}
+            <br>
             <h2>
                 <a href="{{ '/news/' | relative_url }}" style="color: inherit">Recent News</a>
             </h2>
@@ -83,6 +84,7 @@ layout: default
 
         <!-- Selected papers -->
         {% if page.selected_papers %}
+            <br>
             <h2>
                 <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected Projects</a>
             </h2>
