@@ -1481,7 +1481,7 @@ figure.cover {
 /* For larger screens: when the viewport is at least 1200px wide */
 @media (min-width: 1000px) {
   .responsive-scrollable {
-    max-height: 300px;  /* Fixed max-height */
+    max-height: 300px; /* Fixed max-height */
   }
 }
 
@@ -1491,7 +1491,6 @@ figure.cover {
     max-height: 70vw;
   }
 }
-
 
 @media (min-width: 577px) {
   .publications ol.bibliography li .teaser {
@@ -1507,8 +1506,8 @@ figure.cover {
     height: 150px;
     width: 200px;
   }
-    .publications ol.bibliography li .videoplayer {
-        height: 150px;
-        width: 200px;
-    }
+  .publications ol.bibliography li .videoplayer {
+    height: 150px;
+    width: 200px;
+  }
 }
