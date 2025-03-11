@@ -429,16 +429,44 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/al-folio/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-one-paper-on-safe-rl-egpo-was-accepted-to-corl-2021",
+          title: 'One paper on Safe RL (EGPO) was accepted to CoRL 2021!',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-one-paper-on-multi-agent-rl-copo-was-accepted-to-neurips-2021",
+          title: 'One paper on Multi-agent RL (CoPO) was accepted to NeurIPS 2021!',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/al-folio/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-one-paper-on-human-ai-copilot-haco-was-accepted-to-iclr-2022",
+          title: 'One paper on Human-AI Copilot (HACO) was accepted to ICLR 2022!',
+          description: "",
+          section: "News",},{id: "news-metadrive-white-paper-was-accepted-to-tpami",
+          title: 'MetaDrive white paper was accepted to TPAMI!',
+          description: "",
+          section: "News",},{id: "news-i-moved-to-ucla-go-bruins",
+          title: 'I moved to UCLA. Go bruins!',
+          description: "",
+          section: "News",},{id: "news-policy-dissection-was-accepted-to-neurips-2022",
+          title: 'Policy Dissection was accepted to NeurIPS 2022!',
+          description: "",
+          section: "News",},{id: "news-trafficgen-on-traffic-scene-generation-was-accepted-to-icra-2023-ts2c-on-learning-super-teacher-agent-was-accepted-to-iclr-2023",
+          title: 'TrafficGen on traffic scene generation was accepted to ICRA 2023. TS2C on learning...',
+          description: "",
+          section: "News",},{id: "news-i-am-starting-an-internship-at-waymo-great-to-be-here-at-bay-area",
+          title: 'I am starting an internship at Waymo! Great to be here at Bay...',
+          description: "",
+          section: "News",},{id: "news-human-in-the-loop-learning-method-pvp-was-accepted-to-neurips-2023-as-spotlight-scenarionet-was-accepted-to-neurips-2023-dataset-track",
+          title: 'Human-in-the-loop learning method PVP was accepted to NeurIPS 2023 as Spotlight! ScenarioNet was...',
+          description: "",
+          section: "News",},{id: "news-have-been-awarded-the-amazon-fellowship-many-thanks-to-amazon",
+          title: 'Have been awarded the Amazon Fellowship. Many thanks to Amazon!',
+          description: "",
+          section: "News",},{id: "news-paper-on-rl-finetuning-behavior-model-was-accepted-to-eccv-2024",
+          title: 'Paper on RL finetuning behavior model was accepted to ECCV 2024.',
+          description: "",
+          section: "News",},{id: "news-papers-on-shared-autonomy-ai-assists-human-and-diffusion-on-driving-were-accepted-to-neurips-2024",
+          title: 'Papers on shared autonomy (AI assists human) and diffusion on driving were accepted...',
+          description: "",
+          section: "News",},{id: "news-papers-on-building-rl-env-from-video-via-3d-gs-and-improving-vlm-via-metavqa-were-accepted-to-cvpr-2025",
+          title: 'Papers on building RL env from video via 3D GS and improving VLM...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -486,39 +514,32 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/al-folio/projects/9_project/";
             },},{
+        id: 'social-cv_pdf',
+        title: 'Cv_pdf',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%70%7A%68@%63%73.%75%63%6C%61.%65%64%75", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/al-folio/feed.xml", "_blank");
+          window.open("https://github.com/pengzhenghao", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=JZ8ws6IAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
