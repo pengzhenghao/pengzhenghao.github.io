@@ -31,5 +31,3 @@ Before moving to UCLA, I already worked with Prof. Zhou and conducted researches
 
 My research interests cover multi-agent behavior modeling and human-in-the-loop agent learning. 
 Hope you enjoy my works!
-
-([Pronunciation of my name](./pronunciation/))
