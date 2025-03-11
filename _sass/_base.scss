@@ -1491,3 +1491,24 @@ figure.cover {
     max-height: 70vw;
   }
 }
+
+
+@media (min-width: 577px) {
+  .publications ol.bibliography li .teaser {
+    height: 150px;
+  }
+  .publications ol.bibliography li .videoplayer {
+    height: 150px;
+  }
+}
+
+@media (max-width: 576px) {
+  .publications ol.bibliography li .teaser {
+    height: 150px;
+    width: 200px;
+  }
+    .publications ol.bibliography li .videoplayer {
+        height: 150px;
+        width: 200px;
+    }
+}
