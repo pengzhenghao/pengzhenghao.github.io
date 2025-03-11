@@ -30,6 +30,9 @@ let applyTheme = () => {
   setGiscusTheme(theme);
   setSearchTheme(theme);
 
+  // PZH: Add this line to change the sign theme
+  setZhenghaoSignTheme(theme);
+
   // if mermaid is not defined, do nothing
   if (typeof mermaid !== "undefined") {
     setMermaidTheme(theme);
@@ -197,6 +200,22 @@ let setSearchTheme = (theme) => {
     ninjaKeys.classList.remove("dark");
   }
 };
+
+
+let setZhenghaoSignTheme = (theme) => {
+
+
+  // let zhenghao_sign = document.getElementById("zhenghao_sign");
+  // if (!zhenghao_sign) return;
+  if (theme == "dark") {
+    document.documentElement.classList.add("dark");
+  } else {
+    document.documentElement.classList.remove("dark");
+  }
+  // else {
+  //   document.getElementById("zhenghao_sign").style.filter = "invert(0%)";
+  // }
+}
 
 let transTheme = () => {
   document.documentElement.classList.add("transition");
