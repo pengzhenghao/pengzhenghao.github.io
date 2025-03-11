@@ -1459,3 +1459,13 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+/* Default: light theme */
+#zhenghao_sign {
+  filter: invert(0%);
+}
+
+/* Dark theme */
+.dark #zhenghao_sign {
+  filter: invert(100%);
+}
