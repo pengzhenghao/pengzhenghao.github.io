@@ -331,7 +331,7 @@ ul.task-list input[type="checkbox"] {
 
       i::before {
         color: var(--global-text-color);
-        transition-property: all 0.2s ease-in-out;
+        transition-property: all 0.1s ease-in-out;
       }
 
       &:hover {
@@ -351,7 +351,7 @@ ul.task-list input[type="checkbox"] {
     background-color: var(--global-text-color);
     border-radius: 1px;
     margin-bottom: 4px;
-    transition: all 0.2s;
+    transition: all 0.1s;
   }
 
   .top-bar {
@@ -733,11 +733,18 @@ footer.sticky-bottom {
       }
 
       .abbr {
+        min-height: 150px;
+        min-width: 200px;
         margin-bottom: 0.5rem;
 
         abbr {
           display: inline-block;
           background-color: var(--global-theme-color);
+          padding-left: 1rem;
+          padding-right: 1rem;
+          position: absolute;
+          top: 12px;
+          left: 16px;
           margin-bottom: 0.5rem;
           color: var(--global-card-bg-color) !important;
 
