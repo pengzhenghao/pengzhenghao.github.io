@@ -28,7 +28,7 @@ Hi there! I am a 3rd year PhD student in Computer Science at University of Calif
 Before moving to UCLA, I conducted researches with Prof. Zhou and earned my MPhil degree in the Multimedia Lab at the Chinese University of Hong Kong. Before that, I got my Bachelor degree at Shanghai Jiao Tong University.
 
 My research interests cover multi-agent behavior modeling and human-in-the-loop agent learning.
-Recently, I am exploring the applicability of human-in-the-loop learning and reinforcement learning as the post-training tools for Visual-Language-Action (VLA) models.
+Recently, I am exploring the applicability of human-in-the-loop learning and reinforcement learning as the post-training tools for Vision-Language-Action (VLA) models.
 Hope you enjoy my works!
 
 ([Pronunciation of my name](pronunciation))
