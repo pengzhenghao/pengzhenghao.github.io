@@ -24,11 +24,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I am a 3rd year PhD student in Computer Science at University of California, Los Angeles, and is supervised by [Professor Bolei Zhou](https://boleizhou.github.io).
+Hi there! I am a last year PhD student in Computer Science at University of California, Los Angeles, and is supervised by [Professor Bolei Zhou](https://boleizhou.github.io).
 Before moving to UCLA, I conducted researches with Prof. Zhou and earned my MPhil degree in the Multimedia Lab at the Chinese University of Hong Kong. Before that, I got my Bachelor degree at Shanghai Jiao Tong University.
 
 My research interests cover multi-agent behavior modeling and human-in-the-loop agent learning.
 Recently, I am exploring the applicability of human-in-the-loop learning and reinforcement learning as the post-training tools for Vision-Language-Action (VLA) models.
 Hope you enjoy my works!
+
+**I am in the job market!**
 
 ([Pronunciation of my name](pronunciation))
