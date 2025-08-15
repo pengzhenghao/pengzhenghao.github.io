@@ -67,7 +67,7 @@ Before UCLA, I earned my MPhil in the Multimedia Lab at The Chinese University o
 
 Fun facts:
 
-* Favourite robot: [Tachikoma](https://en.wikipedia.org/wiki/Tachikoma).
+* Favourite robot: [Tachikoma](https://ghostintheshell.fandom.com/wiki/Tachikoma).
 * [Pronunciation of my name](pronunciation).
 
 
