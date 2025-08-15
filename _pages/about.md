@@ -30,8 +30,14 @@ Before UCLA, I earned my MPhil in the Multimedia Lab at The Chinese University o
 
 **I'm currently on the job market** — if you’re working on the future of embodied AI, let’s talk.
 
+**Goal:** Physically-grounded, aligned and versatile robots.
+
+**Method:** A VLM is not naturally a VLA. A VLA is not naturally a brain of robot. Capacity building for embodied understanding, decision-oriented thinking, and agile yet reasoned action-making.
+
 
 ---
+
+
 
 ### Why hire me?
 
