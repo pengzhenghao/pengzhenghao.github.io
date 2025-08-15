@@ -53,13 +53,13 @@ Before UCLA, I earned my MPhil in the Multimedia Lab at The Chinese University o
 
 ### What I look for in a team
 
-1. **Clear vision & shared values**: I enjoy in teams united by a mission work together for a common goal---no time to waste in writing design doc.
+1. **Clear agenda & shared values**: I enjoy in teams united by a mission and work together for a common goal.
 
 2. **Positive societal impact**: I want to build robots that benefit the well-being of everyone, poor or rich, west or east.
 
 3. **Open-minded, truth-seeking collaboration**: I value environments where ideas are debated constructively, assumptions are challenged---once common ground is established, we all work together to make it happen.
 
-4. **Longtermism**: We need to look ahead and think how robot would be like in 100 years later.
+4. **Longtermism**: We need to look ahead and think how robot would be like in 100 years later and how we can do now to foster that future.
 
 
 ---
