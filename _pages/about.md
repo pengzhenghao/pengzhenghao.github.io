@@ -24,42 +24,32 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I’m a final-year PhD student in Computer Science at UCLA, advised by [Professor Bolei Zhou](https://boleizhou.github.io). My work sits at the intersection of robotics, reinforcement learning, and vision–language–action models — building agents that can reason about the world, align with human intent, and adapt in real time.
+<p>    </p>
 
-Before UCLA, I earned my MPhil in the Multimedia Lab at The Chinese University of Hong Kong, and my Bachelor’s at Shanghai Jiao Tong University. Along the way, I’ve explored how human feedback, large-scale RL, and foundation models can bring us closer to physically capable, trustworthy AI systems.
+Hi there! I’m a final-year PhD student in Computer Science at UCLA, advised by [Professor Bolei Zhou](https://boleizhou.github.io). 
+Before UCLA, I earned my MPhil in the Multimedia Lab at the Chinese University of Hong Kong, and my Bachelor’s at Shanghai Jiao Tong University.
 
-**I'm currently on the job market** — if you’re working on the future of embodied AI, let’s talk.
+
+My work lies at the intersection of robotics, reinforcement learning, and vision–language–action (VLA) models. I am building agents that can reason about the world, align with human intent, and adapt in real time. Over the past 7 years, I’ve studied and taught reinforcement learning and explored a wide spectrum of agent learning tecniques: multi-agent RL, human-in-the-loop learning, and large-scale training. I created the widely used driving simulator  [MetaDrive](https://github.com/metadriverse/metadrive), which has received ~1,000 stars and +350 citations in the research community.
+
+
+
+
+**I'm currently on the job market** — if you’re working on the future of embodied AI, let’s chat!
+
+---
 
 **Goal:** Physically-grounded, aligned and versatile robots.
 
-**Method:** A VLM is not naturally a VLA. A VLA is not naturally a brain of robot. Capacity building for embodied understanding, decision-oriented thinking, and agile yet reasoned action-making.
+**Method:** A VLM is not naturally a VLA and A VLA is not yet the robot's brain. We need capacity building for embodied understanding, decision-oriented thinking, and agile yet reasoned action-making.
 
 
----
+I believe in:
 
-
-
-### Why hire me?
-
-1. **Reinforcement Learning expertise**: 7 years of research and teaching in reinforcement learning, spanning multi-agent RL, human-in-the-loop learning, and large-scale training.
-
-2. **Robotics Vision**: Passionate about building interactive, physically grounded AI; designing VLA architectures that combine System 1 fast reaction with System 2 deep reasoning. Worked with quadruped robot, delivery robot and unmanned surface vehicle.
-
-3. **Proven Programmer**: Created a widely used driving simulator in the research community. (See my [GitHub](https://github.com/pengzhenghao) and [MetaDrive](https://github.com/metadriverse/metadrive))
-
-4. **Strong communicator & teammate**: Experienced in cross-disciplinary work, clear technical writing, and team-driven innovation.
-
----
-
-### What I look for in a team
-
-1. **Clear agenda & shared values**: I enjoy in teams united by a mission and work together for a common goal.
-
-2. **Positive societal impact**: I want to build robots that benefit the well-being of everyone, poor or rich, west or east.
-
-3. **Open-minded, truth-seeking collaboration**: I value environments where ideas are debated constructively, assumptions are challenged---once common ground is established, we all work together to make it happen.
-
-4. **Longtermism**: We need to look ahead and think how robot would be like in 100 years later and how we can do now to foster that future.
+* **Clear agendas & shared values**: I thrive in mission-driven teams working toward a common goal.
+* **Positive societal impact**: I want to build robots that benefit everyone — rich or poor, East or West.
+* **Open-minded, truth-seeking collaboration**: I value environments that welcome debate, challenge assumptions, and unite to execute once aligned.
+* **Longtermism**: Let’s build the kind of robots that will be welcomed a hundred years from now — and do the work now that enables that future.
 
 
 ---
@@ -69,6 +59,7 @@ Fun facts:
 
 * Favourite robot: [Tachikoma](https://ghostintheshell.fandom.com/wiki/Tachikoma).
 * [Pronunciation of my name](pronunciation).
+* I enjoy watching movie, cycling, and camping.
 
 
 <!--
