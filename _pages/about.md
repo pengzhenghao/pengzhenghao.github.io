@@ -39,7 +39,7 @@ My work lies at the intersection of robotics, reinforcement learning, and vision
 
 **Goal:** Physically-grounded, aligned and versatile robots.
 
-**Method:** A VLM is not naturally a VLA and A VLA is not yet the robot's brain. We need capacity building for embodied understanding, decision-oriented thinking, and agile yet reasoned action-making.
+**Method:** Capacity building for embodied understanding, decision-oriented thinking, and agile yet reasoned action-making. Three stages: pretraining and modality alignment, closed-loop post-training, and human-in-the-loop test-time adaptation.
 
 ##### Please check out my **[research statement](research)** for more details.
 
