@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-research-statement",
           title: "Research Statement",
-          description: "Zhenghao Peng, Aug 17, 2025",
+          description: "Zhenghao Peng, Aug 18, 2025",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
