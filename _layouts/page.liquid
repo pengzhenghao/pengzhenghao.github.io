@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+
+{% assign read_time = page.content
+   | strip_html
+   | number_of_words
+   | plus: 179
+   | divided_by: 180 %}
+
 {% if page._styles %}
   <!-- Page/Post style -->
   <style type="text/css">
