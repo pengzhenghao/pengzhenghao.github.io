@@ -93,7 +93,11 @@ layout: default
       {% include newsletter.liquid center=true %}
     {% endif %}
 
-    “These are the two tenets of Nomai philosophy; to seek out and to understand is our way of living.”
-—Solanum, Outer Wilds
+
+    <div class="clearfix">
+        {% capture about_extra %}{% include about_postcontent.md %}{% endcapture %}
+        {{ about_extra | markdownify }}
+    </div>
+
   </article>
 </div>

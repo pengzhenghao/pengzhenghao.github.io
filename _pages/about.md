@@ -30,36 +30,34 @@ Hi there! I’m a final-year PhD student in Computer Science at UCLA, advised by
 Before UCLA, I earned my MPhil in the Multimedia Lab at the Chinese University of Hong Kong, and my Bachelor’s at Shanghai Jiao Tong University.
 
 
-My work lies at the intersection of robotics, reinforcement learning, and vision–language–action (VLA) models. I am building agents that can reason about the world, align with human intent, and adapt in real time. Over the past 7 years, I’ve studied and taught reinforcement learning and explored a wide spectrum of agent learning tecniques: multi-agent RL, human-in-the-loop learning, and large-scale training. I created the widely used driving simulator  [MetaDrive](https://github.com/metadriverse/metadrive), which has received ~1,000 stars and +350 citations in the research community.
+My work lies at the intersection of robotics, reinforcement learning, and vision–language–action (VLA) models. I am building agents that can reason about the world, align with human intent, and adapt in real time. Over the past 7 years, I’ve studied and taught reinforcement learning and explored a wide spectrum of agent learning tecniques: multi-agent RL, human-in-the-loop learning, and large-scale training. 
+
+<!--I created the widely used driving simulator  [MetaDrive](https://github.com/metadriverse/metadrive), which has received ~1,000 stars and +350 citations in the research community.
+-->
 
 
-
-
-**I'm currently on the job market** — if you’re working on the future of embodied AI, let’s chat!
-
----
 
 **Goal:** Physically-grounded, aligned and versatile robots.
 
 **Method:** A VLM is not naturally a VLA and A VLA is not yet the robot's brain. We need capacity building for embodied understanding, decision-oriented thinking, and agile yet reasoned action-making.
 
+##### Please check out my **[research statement](research)** for more details.
 
+---
+
+<!--
 I believe in:
 
 * **Clear agendas & shared values**: I thrive in mission-driven teams working toward a common goal.
 * **Positive societal impact**: I want to build robots that benefit everyone — rich or poor, East or West.
 * **Open-minded, truth-seeking collaboration**: I value environments that welcome debate, challenge assumptions, and unite to execute once aligned.
 * **Longtermism**: Let’s build the kind of robots that will be welcomed a hundred years from now — and do the work now that enables that future.
+-->
 
+
+**I'm currently on the job market** — if you’re working on the future of embodied AI, let’s chat!
 
 ---
-
-
-Fun facts:
-
-* Favourite robot: [Tachikoma](https://ghostintheshell.fandom.com/wiki/Tachikoma).
-* [Pronunciation of my name](pronunciation).
-* I enjoy watching movie, cycling, and camping.
 
 
 <!--
