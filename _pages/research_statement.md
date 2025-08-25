@@ -124,20 +124,3 @@ One interesting direction I've explored is **assistive AI**. Collaborating with 
 Beyond assistive technology, this direction also holds promise for domains like rehabilitation, prosthetic control, and even high-stakes human–robot collaboration in healthcare or industrial settings.
 
 
-<br>
-
-### Outlook
-
-By integrating the three stages---imitation learning pretraining, closed-loop fine-tuning, and human-in-the-loop test-time adaptation---my research lays the groundwork for scalable and trustworthy embodied AI.
-
-My long-term goal is to build robots that serve as capable, adaptive, and aligned partners, advancing human well-being.
-
-Here list my personal **values** that guide my research and development of physical AI:
-
-* Safety: Robots must never endanger humans. Safety and robustness are the primary principles guiding system design and deployment.
-
-* Human-Centered: Robots should augment human capabilities and improve well-being, rather than marginalize people. Robots should adapt to human intentions and preferences, ensuring alignment with ethical norms and social good.
-
-* Equity and Accessibility: Robotic technologies should be accessible and beneficial to diverse populations, not only privileged groups or large corporations.
-
-* Sustainability: Development of physical AI should minimize negative environmental and societal impacts. Robotics should not create large-scale social crises, such as mass unemployment and misuse in warfare.
