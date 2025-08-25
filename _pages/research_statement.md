@@ -16,6 +16,14 @@ nav_order: 2
 .float-right-30 { float: right; width: 30%; margin-left: 1.5em; margin-bottom: 0.5em; }
 .float-right-30 figure { width: 100%; margin: 0; }
 .float-right-30 img { width: 100%; height: auto; display: block; }
+
+.float-right-50 { float: right; width: 50%; margin-left: 1.0em; margin-bottom: 0.5em; }
+.float-right-50 figure { width: 100%; margin: 0; }
+.float-right-50 img { width: 100%; height: auto; display: block; }
+
+
+.float-center { margin: 0 auto; text-align: center; }
+
 </style>
 
 
@@ -103,6 +111,11 @@ Over the years, I have pioneered this research direction with 5 papers:
 **[Proxy Value Propagation (PVP)](https://metadriverse.github.io/pvp/) (NeurIPS 2023 Spotlight):** Considering the **reward-free setting**, we proposed several improvements to enhance learning from active human involvement. These improvements address issues observed in HACO, including the jittering and oscillation of the learning agent, catastrophic forgetting, and challenges in learning sparse yet crucial behaviors.
 
 **[PVP4Real](https://metadriverse.github.io/pvp4real/) (ICRA 2025):** Deploying PVP on real robots, **we train two mobile robots (Go2 and delivery robot) from scratch, without reward, in real world, in real time**. We show that the embodied agents can learn (1) safe navigation and (2) human following tasks within 15 minutes on wall time.
+
+<div class="float-center">
+{% include video.liquid loading="eager" path="assets/teaser/cover_pvp4real_compressed.mp4" class="img-fluid rounded" autoplay=true caption="We train real robots in 15 minutes with <a href='https://metadriverse.github.io/pvp4real/'>human-in-the-loop learning</a>." loop=true muted=true width='70%' %}
+</div>
+
 
 This line of work establishes test-time post-training as the final stage of robotic learning: a continual feedback loop where human guidance ensures safety, adaptability, and alignment.
 
