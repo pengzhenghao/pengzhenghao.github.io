@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
+        },{id: "nav-cv-pdf",
+          title: "CV (PDF)",
+          description: "Zhenghao Peng&#39;s CV",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
@@ -486,6 +493,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://github.com/pengzhenghao", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/zhenghao-peng", "_blank");
         },
       },{
         id: 'social-scholar',
