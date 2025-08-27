@@ -401,13 +401,20 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 2.5rem;
+    font-size: 1.1rem;
 
     .contact-icons-name {
       font-size: 1.1rem;
+      color: var(--global-text-color);
+      transition: color 0.2s ease-in-out;
     }
 
     a {
+
+      i {
+        font-size: 1.2rem;
+      }
+
       img {
         width: 3.2rem;
         height: 3.2rem;
@@ -425,6 +432,11 @@ ul.task-list input[type="checkbox"] {
         }
       }
 
+      .contact-icons-name::before {
+        color: var(--global-text-color);
+        transition-property: all 0.2s ease-in-out;
+      }
+
       i::before {
         color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
@@ -434,6 +446,11 @@ ul.task-list input[type="checkbox"] {
         text-decoration: none;
 
         i::before {
+          color: var(--global-theme-color);
+        }
+
+        /* add this so names match the hover effect */
+        .contact-icons-name {
           color: var(--global-theme-color);
         }
       }
