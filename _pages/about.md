@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 8 # leave blank to include all the news in the `_news` folder
+  limit: 20 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -26,12 +26,12 @@ latest_posts:
 
 <p>    </p>
 
-Hi there! I’m a final-year PhD student in Computer Science at UCLA, advised by [Professor Bolei Zhou](https://boleizhou.github.io). 
+Hi there! I’m a final-year PhD student in Computer Science at UCLA, advised by [Prof. Bolei Zhou](https://boleizhou.github.io). 
 Before UCLA, I earned my MPhil in the Multimedia Lab at the Chinese University of Hong Kong, and my Bachelor’s at Shanghai Jiao Tong University.
 
 
 I am building agents that can reason about the world, align with human intent, and adapt in real time. 
-Over the past 7 years, I’ve explored a wide spectrum of agent learning techniques: multi-agent RL, human-in-the-loop learning, and large-scale training.
+Over the past 7 years, I’ve explored a wide spectrum of agent learning techniques: Reinforcement Learning (RL), multi-agent RL, human-in-the-loop learning, and simulation.
 
 **Goal:** Physically-grounded, aligned and versatile robots.
 

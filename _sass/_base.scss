@@ -1495,21 +1495,21 @@ figure.cover {
 /* For PCs: when the viewport is at least 768px wide but below 1200px */
 @media (min-width: 768px) and (max-width: 999px) {
   .responsive-scrollable {
-    max-height: 30vw;
+    max-height: 50vw;
   }
 }
 
 /* For larger screens: when the viewport is at least 1200px wide */
 @media (min-width: 1000px) {
   .responsive-scrollable {
-    max-height: 300px; /* Fixed max-height */
+    max-height: 400px; /* Fixed max-height */
   }
 }
 
 /* For phones: when the viewport is less than 768px wide */
 @media (max-width: 767px) {
   .responsive-scrollable {
-    max-height: 70vw;
+    max-height: 160vw;
   }
 }
 
