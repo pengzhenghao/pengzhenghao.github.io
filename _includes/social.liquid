@@ -2,7 +2,8 @@
 {% for social in site.data.socials %}
   {% case social[0] %}
     {% when 'cv_pdf' %}
-      <a href="assets/pdf/{{ social[1] }}" title="CV">
+      {% comment %}<a href="assets/pdf/{{ social[1] }}" title="CV">{% endcomment %}
+      <a href="{{ social[1] }}" title="CV">
         <i class="ai ai-cv"></i>
         <span class="contact-icons-name">CV</span></a>&nbsp;
     {% when 'acm_id' %}

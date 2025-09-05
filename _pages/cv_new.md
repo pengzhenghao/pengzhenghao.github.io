@@ -5,6 +5,6 @@ title: CV (PDF)
 description: "Zhenghao Peng's CV"
 nav: true
 nav_order: 4
-redirect: assets/pdf/CV_ZhenghaoPeng.pdf
+redirect: CV_ZhenghaoPeng.pdf
 dont_wait: true
 ---
