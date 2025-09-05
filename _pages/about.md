@@ -30,17 +30,12 @@ Hi there! I’m a final-year PhD student in Computer Science at UCLA, advised by
 Before UCLA, I earned my MPhil in the Multimedia Lab at the Chinese University of Hong Kong, and my Bachelor’s at Shanghai Jiao Tong University.
 
 
-I am building agents that can reason about the world, align with human intent, and adapt in real time. 
+I am building foundation models and embodied agents that can reason about the world, align with human intent, and adapt in real time. 
 Over the past 7 years, I’ve explored a wide spectrum of agent learning techniques: Reinforcement Learning (RL), multi-agent RL, human-in-the-loop learning, and simulation.
 
-**Goal:** Physically-grounded, aligned and versatile robots.
+I am interested in applying various policy learning methods (IL, RL, preference, human-in-the-loop, etc.) for aligned and versatile models & robots.
 
-**Method:** 
-Imitation learning pretraining, 
-closed-loop finetuning, and
-human-in-the-loop test-time adaptation.
-
-##### Please check out my **[research statement](research)** for more details.
+Please check out my **[research statement](research)** for more details.
 
 ---
 
@@ -54,7 +49,7 @@ I believe in:
 -->
 
 
-**I'm currently on the job market** — if you’re working on the future of embodied AI, let’s chat!
+**I'm currently on the job market** — if you’re working on the future of embodied AI and multi-modal foundation models, let’s chat!
 
 ---
 
