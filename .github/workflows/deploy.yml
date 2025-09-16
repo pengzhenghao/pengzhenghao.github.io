@@ -92,6 +92,8 @@ jobs:
           pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
           bundle exec jekyll build
+      - name: Copy CV to site 📄
+        run: cp CV_ZhenghaoPeng.pdf _site/CV_ZhenghaoPeng.pdf
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
