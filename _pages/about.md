@@ -68,3 +68,5 @@ What I want from the team?
 2. I want the robot we built benefits the majority. Robots that deprive people of their jobs, or robots that are not safe to use, are not the robots I want to build.
 3. I want the team to be open-minded and inclusive. I want to work with people who are willing to listen to different opinions and ideas, and who are not afraid to challenge the status quo.
 -->
+
+
