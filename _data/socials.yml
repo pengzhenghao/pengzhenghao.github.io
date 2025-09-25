@@ -3,6 +3,7 @@
 # the socials will be displayed in the order they are defined here
 
 cv_pdf: CV_ZhenghaoPeng.pdf
+cv_pdf_cn: CV_ZhenghaoPeng_CN.pdf
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL

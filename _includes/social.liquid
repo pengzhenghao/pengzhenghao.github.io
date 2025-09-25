@@ -6,6 +6,11 @@
       <a href="{{ social[1] }}" title="CV">
         <i class="ai ai-cv"></i>
         <span class="contact-icons-name">CV</span></a>&nbsp;
+    {% when 'cv_pdf_cn' %}
+      <a href="{{ social[1] }}" title="CV (中文)">
+        <i class="ai ai-cv"></i>
+        <span class="contact-icons-name">简历</span></a>&nbsp;
+    <br>
     {% when 'acm_id' %}
       <a href="https://dl.acm.org/profile/{{ social[1] }}/" title="ACM DL"><i class="ai ai-acm"></i></a>
     {% when 'blogger_url' %}
