@@ -481,6 +481,13 @@ ninja.data = [{
           window.open("", "_blank");
         },
       },{
+        id: 'social-cv_pdf_cn',
+        title: 'Cv_pdf_cn',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
