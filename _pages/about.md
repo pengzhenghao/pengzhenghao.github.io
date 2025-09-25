@@ -29,13 +29,16 @@ latest_posts:
 Hi there! I’m a final-year PhD student in Computer Science at UCLA, advised by [Prof. Bolei Zhou](https://boleizhou.github.io). 
 Before UCLA, I earned my MPhil in the Multimedia Lab at the Chinese University of Hong Kong, and my Bachelor’s at Shanghai Jiao Tong University.
 
+[//]: # (My research interests lie at the intersection of **embodied AI, reinforcement learning, and multi-modal foundation models**.)
+[//]: # (I am building foundation models and embodied agents that can reason about the world, align with human intent, and adapt in real time. )
+[//]: # (Over the past 7 years, I’ve explored a wide spectrum of agent learning techniques: Vision-Language-Action &#40;VLA&#41; models, Reinforcement Learning &#40;RL&#41;, preference learning, and human-in-the-loop learning.)
 
-I am building foundation models and embodied agents that can reason about the world, align with human intent, and adapt in real time. 
-Over the past 7 years, I’ve explored a wide spectrum of agent learning techniques: Reinforcement Learning (RL), multi-agent RL, human-in-the-loop learning, and simulation.
+[//]: # (I am interested in applying various these agent learning methods &#40;IL, RL, preference, human-in-the-loop, etc.&#41; for aligned and versatile models & robots.)
 
-I am interested in applying various policy learning methods (IL, RL, preference, human-in-the-loop, etc.) for aligned and versatile models & robots.
+Over the past seven years, I’ve explored a broad spectrum of agent learning techniques, including Vision-Language-Action (VLA) models, Reinforcement Learning (RL), imitation learning (IL), preference learning, and human-in-the-loop learning.
+My research focuses on applying these methods (VLA, RL, IL, and human-in-the-loop approaches) to build aligned and versatile models and robots.
 
-Please check out my **[research statement](research)** for more details.
+[//]: # (Please check out my **[research statement]&#40;research&#41;** for more details.)
 
 ---
 
