@@ -1,3 +1,11 @@
+# No BS:
+
+```bash
+docker compose pull
+docker compose up
+```
+
+
 # al-folio
 
 <div align="center">
@@ -222,6 +230,7 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
 
 ## Table Of Contents
 
+- [No BS:](#no-bs)
 - [al-folio](#al-folio)
   - [User community](#user-community)
   - [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
