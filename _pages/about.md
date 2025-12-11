@@ -52,8 +52,6 @@ I believe in:
 -->
 
 
-**I'm currently on the job market** — if you’re working on the future of embodied AI and multi-modal foundation models, let’s chat!
-
 ---
 
 
