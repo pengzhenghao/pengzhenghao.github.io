@@ -35,8 +35,6 @@ I have 20+ top-tier conference papers, 5+ papers pioneering human-in-the-loop le
 
 [//]: # (Please check out my **[research statement]&#40;research&#41;** for more details.)
 
----
-
 <!--
 I believe in:
 
