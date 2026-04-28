@@ -431,6 +431,9 @@ ninja.data = [{
           section: "News",},{id: "news-two-paper-accepted-to-neurips-2025",
           title: 'Two paper accepted to NeurIPS 2025.',
           description: "",
+          section: "News",},{id: "news-i-joined-amazon-far-as-a-member-of-technical-staff-excited-to-work-here",
+          title: 'I joined Amazon FAR as a Member of Technical Staff. Excited to work...',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -495,7 +498,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%70%7A%68@%63%73.%75%63%6C%61.%65%64%75", "_blank");
+          window.open("mailto:%70%65%6E%67%7A%68%65%6E%67%68%61%6F%31%39%39%37@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',
