@@ -26,17 +26,12 @@ latest_posts:
 
 <p>    </p>
 
-Hi there! I’m a final-year PhD student in Computer Science at UCLA, advised by [Prof. Bolei Zhou](https://boleizhou.github.io). 
+Hi there! I’m a Member of Technical Staff at [Amazon FAR](https://www.amazon.science/), working on robotics.
+I received my PhD in Computer Science from UCLA, advised by [Prof. Bolei Zhou](https://boleizhou.github.io). 
 Before UCLA, I earned my MPhil in the Multimedia Lab at the Chinese University of Hong Kong, and my Bachelor’s at Shanghai Jiao Tong University.
 
-[//]: # (My research interests lie at the intersection of **embodied AI, reinforcement learning, and multi-modal foundation models**.)
-[//]: # (I am building foundation models and embodied agents that can reason about the world, align with human intent, and adapt in real time. )
-[//]: # (Over the past 7 years, I’ve explored a wide spectrum of agent learning techniques: Vision-Language-Action &#40;VLA&#41; models, Reinforcement Learning &#40;RL&#41;, preference learning, and human-in-the-loop learning.)
-
-[//]: # (I am interested in applying various these agent learning methods &#40;IL, RL, preference, human-in-the-loop, etc.&#41; for aligned and versatile models & robots.)
-
-Over the past seven years, I’ve explored a broad spectrum of agent learning techniques, including Vision-Language-Action (VLA) models, Reinforcement Learning (RL), imitation learning (IL), preference learning, and human-in-the-loop learning.
-My research focuses on applying these methods (VLA, RL, IL, and human-in-the-loop approaches) to build aligned and versatile models and robots.
+My research interests include Reinforcement Learning, Robotics, Multimodal LLM (VLA, VLM), and Human-in-the-loop Learning.
+I have 20+ top-tier conference papers, 5+ papers pioneering human-in-the-loop learning, 1800+ citations, and 9 first-/co-first-authored papers.
 
 [//]: # (Please check out my **[research statement]&#40;research&#41;** for more details.)
 
