@@ -33,8 +33,7 @@ Before UCLA, I earned my MPhil in the Multimedia Lab at the Chinese University o
 My research interests include Reinforcement Learning, Robotics, Multimodal LLM (VLA, VLM), and Human-in-the-loop Learning.
 I have 20+ top-tier conference papers, 5+ papers pioneering human-in-the-loop learning, 1800+ citations, and 9 first-/co-first-authored papers.
 
-The singularity for AI/robotics hasn't arrived. Plenty of unsolved problems still sit between today's systems and general-purpose robots in the physical world. AI and robots will be one of the most transformative forces of our lifetimes. **Whether that goes well for humans depends on the people building it now. Glad to be one of them.**
-
+I genuinely enjoy robotics research — there's a particular joy in building systems you can actually interact with in the physical world, and plenty of hard, unsolved problems still stand between today's robots and ones that are broadly useful. What keeps me motivated is the kind of robots I'd like to see exist: ones that make everyday life a little easier and whose benefits reach ordinary people around the world.
 
 
 [//]: # (Please check out my **[research statement]&#40;research&#41;** for more details.)
