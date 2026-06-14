@@ -31,7 +31,7 @@ I received my PhD in Computer Science from UCLA, advised by [Prof. Bolei Zhou](h
 Before UCLA, I earned my MPhil in the Multimedia Lab at the Chinese University of Hong Kong, and my Bachelor’s at Shanghai Jiao Tong University.
 
 My research interests include Reinforcement Learning, Robotics, Multimodal LLM (VLA, VLM), and Human-in-the-loop Learning.
-I have 20+ top-tier conference papers, 5+ papers pioneering human-in-the-loop learning, 1800+ citations, and 9 first-/co-first-authored papers.
+I have 20+ top-tier conference papers, 5+ papers pioneering human-in-the-loop learning, 2000+ citations, and 9 first-/co-first-authored papers.
 
 I genuinely enjoy robotics research — there's a particular joy in building systems you can actually interact with in the physical world, and plenty of hard, unsolved problems still stand between today's robots and ones that are broadly useful. What keeps me motivated is the kind of robots I'd like to see exist: ones that make everyday life a little easier and whose benefits reach ordinary people around the world.
 
