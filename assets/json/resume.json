@@ -42,10 +42,7 @@
       "startDate": "2025-06-01",
       "endDate": "2025-12-01",
       "summary": "Research intern in Autonomous Vehicle Group at NVIDIA Research. Contributed to Alpamayo-R1 and designed Counterfactual VLA (CF-VLA). Paper accepted to CVPR 2026 as Highlight.",
-      "highlights": [
-        "Counterfactual VLA (CVPR 2026 Highlight)",
-        "Alpamayo-R1"
-      ]
+      "highlights": ["Counterfactual VLA (CVPR 2026 Highlight)", "Alpamayo-R1"]
     },
     {
       "name": "Waymo",
@@ -54,9 +51,7 @@
       "startDate": "2023-06-01",
       "endDate": "2023-09-01",
       "summary": "Research intern in behavior modeling. Mentored by Justin Fu and Rowan McAllister. Fine-tuned multi-agent behavior models with reinforcement learning.",
-      "highlights": [
-        "Paper accepted to ECCV 2024"
-      ]
+      "highlights": ["Paper accepted to ECCV 2024"]
     },
     {
       "name": "Shenzhen Institutes of Advanced Technology (SIAT), Chinese Academy of Sciences",

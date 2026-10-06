@@ -2,13 +2,10 @@
 layout: page
 permalink: /job/
 title: Job
-description: 
+description:
 nav: false
 nav_order: 2
 ---
-
-
-
 
 ### Why hire me?
 
@@ -31,4 +28,3 @@ nav_order: 2
 3. **Open-minded, truth-seeking collaboration**: I value environments where ideas are debated constructively, assumptions are challenged---once common ground is established, we all work together to make it happen.
 
 4. **Longtermism**: We need to look ahead and think how robot would be like in 100 years later and how we can do now to foster that future.
-

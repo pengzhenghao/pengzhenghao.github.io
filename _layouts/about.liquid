@@ -93,11 +93,9 @@ layout: default
       {% include newsletter.liquid center=true %}
     {% endif %}
 
-
     <div class="clearfix">
-        {% capture about_extra %}{% include about_postcontent.md %}{% endcapture %}
-        {{ about_extra | markdownify }}
+      {% capture about_extra %}{% include about_postcontent.md %}{% endcapture %}
+      {{ about_extra | markdownify }}
     </div>
-
   </article>
 </div>

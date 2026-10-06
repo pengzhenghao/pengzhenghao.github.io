@@ -7,7 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-
 <style>
 .float-right-40 { float: right; width: 40%; margin-left: 1.5em; margin-bottom: 0.5em; }
 .float-right-40 figure { width: 100%; margin: 0; }
@@ -26,26 +25,21 @@ nav_order: 2
 
 </style>
 
-
-
 {% include figure.liquid zoomable=1 avoid_scaling=1 loading="eager" path="assets/img/RS-Intro.png" class="img-fluid rounded" caption="<b>I like playing with real robots!</b>" %}
-
 
 ### Road to Physical AI
 
 My research aims to build foundation models for robotics that are scalable, aligned, and deployable in the real world.
 
-As shown in the figure below, I organize this agenda into three complementary stages: 
+As shown in the figure below, I organize this agenda into three complementary stages:
 
-1. Imitation learning pretraining, 
+1. Imitation learning pretraining,
 2. Closed-loop post-training, and
 3. Human-in-the-loop test-time adaptation.
 
-I started my research in 2018. Since then, I have published 16 papers in top-tier AI and robotics conferences, such as NeurIPS, ICLR, CoRL, ICRA, ICML, ECCV, *etc*. This research statement provides an overview of my work and future directions in each stage.
-
+I started my research in 2018. Since then, I have published 16 papers in top-tier AI and robotics conferences, such as NeurIPS, ICLR, CoRL, ICRA, ICML, ECCV, _etc_. This research statement provides an overview of my work and future directions in each stage.
 
 {% include figure.liquid zoomable=1 avoid_scaling=1 loading="eager" path="assets/img/Framework.png" class="img-fluid rounded z-depth-1" caption="<b>Road to Physical AI:</b> The capacities of physical AI agent are acquired via pretraining, closed-loop finetuning, and  human-in-the-loop test-time adaptation. Important problems in each stage are listed. ✅: I have experience on. 🔍: Discovering." %}
-
 
 <br>
 
@@ -57,7 +51,6 @@ In [MetaVQA](https://metadriverse.github.io/metavqa/), we constructed datasets t
 
 Currently, I am exploring methods to ensure the model understands the actions it produced semantically, enabling reasoning about both execution and consequences.
 
-
 <br>
 
 ### Closed-loop Post-Training: Simulation and RL
@@ -65,7 +58,6 @@ Currently, I am exploring methods to ensure the model understands the actions it
 <div class="float-right-30">
 {% include figure.liquid loading="eager" path="assets/img/RS-Simulation.png" class="img-fluid rounded"%}
 </div>
-
 
 While imitation learning offers strong initialization, open-loop behavior cloning often fails in real deployments. Closed-loop post-training in simulation bridges this gap. I've been exploring the methods to improve the fidelity of data-driven simulation.
 
@@ -89,22 +81,18 @@ I am exploring the embodied reasoning as a new way to improve VLA.
 
 ### Human-in-the-Loop Test-Time Adaptation
 
-
 <div class="float-right-30">
 {% include figure.liquid loading="eager" path="assets/img/RS-Experiment.png" class="img-fluid rounded" caption="Our method exhibits unprecedented learning efficiency." %}
 </div>
 
-
-Even with large-scale simulation and RL, agents inevitably face a sim-to-real gap when deployed. 
+Even with large-scale simulation and RL, agents inevitably face a sim-to-real gap when deployed.
 Closing this gap requires humans in the loop, providing real-time interventions and feedback to align the agent’s behavior with human values.
 
 Over the years, I have pioneered this research direction with 5 papers:
 
 **[EGPO](https://decisionforce.github.io/EGPO/) (CoRL 2021):** Our research on human-in-the-loop policy learning began in 2021. The first published work is Expert Guided Policy Optimization (EGPO). In this work, we explored how an RL agent can benefit from the intervention of a PPO expert.
 
-
 **[HACO](https://decisionforce.github.io/HACO/) (ICLR 2022):** Building upon the methodology of EGPO, and substituting the PPO expert with a **real human subject**, we proposed Human-AI Copilot Optimization (HACO) and it demonstrated significant improvements in learning efficiency over traditional RL baselines.
-
 
 **[TS2C](https://metadriverse.github.io/TS2C/) (ICLR 2023):** In Teacher-Student Shared Control (TS2C), we examined the impact of using the value function as a criterion for determining when the PPO expert should intervene. The value function-based intervention makes it possible for the student agent to learn from a suboptimal teacher.
 
@@ -116,11 +104,8 @@ Over the years, I have pioneered this research direction with 5 papers:
 {% include video.liquid loading="eager" path="assets/teaser/cover_pvp4real_compressed.mp4" class="img-fluid rounded" autoplay=true caption="We train real robots in 15 minutes with <a href='https://metadriverse.github.io/pvp4real/'>human-in-the-loop learning</a>." loop=true muted=true width='70%' %}
 </div>
 
-
 This line of work establishes test-time post-training as the final stage of robotic learning: a continual feedback loop where human guidance ensures safety, adaptability, and alignment.
 
-One interesting direction I've explored is **assistive AI**. Collaborating with Prof. Jonathan Kao, we have built 
+One interesting direction I've explored is **assistive AI**. Collaborating with Prof. Jonathan Kao, we have built
 [Interventional Diffusion Assistance (IDA)](https://www.arxiv.org/pdf/2409.15317), a novel AI framework for dynamically sharing control between human users and AI agents, empowering the human users to achieve better performance in control tasks via the synergy of human and AI assistant.
 Beyond assistive technology, this direction also holds promise for domains like rehabilitation, prosthetic control, and even high-stakes human–robot collaboration in healthcare or industrial settings.
-
-
