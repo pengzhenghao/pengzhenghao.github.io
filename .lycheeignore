@@ -1,2 +1,9 @@
 linkedin.com
 reddit.com
+
+# These specific public pages reject automated requests (401/403) in GitHub CI.
+# Keep the exceptions narrow; do not ignore HTTP errors for other links.
+^https://unsplash\.com/?$
+^https://ghostintheshell\.fandom\.com/wiki/Tachikoma$
+^https://stackoverflow\.com/questions/34987908/embed-a-code-block-in-a-list-item-with-proper-indentation-in-kramdown/38090598#38090598$
+^http://www\.intmath\.com/cg5/katex-mathjax-comparison\.php$

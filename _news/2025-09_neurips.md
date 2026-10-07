@@ -4,4 +4,4 @@ date: 2025-06-16
 inline: true
 ---
 
-Two paper accepted to NeurIPS 2025.
+Two papers were accepted to NeurIPS 2025.

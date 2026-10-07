@@ -27,7 +27,7 @@ latest_posts:
 <p>    </p>
 
 Hi there! I’m a Member of Technical Staff at [Amazon FAR](https://www.amazon.science/), working on robotics.
-I received my PhD in Computer Science from UCLA, advised by [Prof. Bolei Zhou](https://boleizhou.github.io). 
+I received my PhD in Computer Science from UCLA, advised by [Prof. Bolei Zhou](https://boleizhou.github.io).
 Before UCLA, I earned my MPhil in the Multimedia Lab at the Chinese University of Hong Kong, and my Bachelor’s at Shanghai Jiao Tong University.
 
 My research interests include Reinforcement Learning, Robotics, Multimodal LLM (VLA, VLM), and Human-in-the-loop Learning.
@@ -35,8 +35,7 @@ I have 20+ top-tier conference papers, 5+ papers pioneering human-in-the-loop le
 
 I genuinely enjoy robotics research — there's a particular joy in building systems you can actually interact with in the physical world, and plenty of hard, unsolved problems still stand between today's robots and ones that are broadly useful. What keeps me motivated is the kind of robots I'd like to see exist: ones that make everyday life a little easier and whose benefits reach ordinary people around the world.
 
-
-[//]: # (Please check out my **[research statement]&#40;research&#41;** for more details.)
+[//]: # "Please check out my **[research statement](research)** for more details."
 
 <!--
 I believe in:
@@ -47,9 +46,7 @@ I believe in:
 * **Longtermism**: Let’s build the kind of robots that will be welcomed a hundred years from now — and do the work now that enables that future.
 -->
 
-
 ---
-
 
 <!--
 Why you need to hire me?
@@ -65,5 +62,3 @@ What I want from the team?
 2. I want the robot we built benefits the majority. Robots that deprive people of their jobs, or robots that are not safe to use, are not the robots I want to build.
 3. I want the team to be open-minded and inclusive. I want to work with people who are willing to listen to different opinions and ideas, and who are not afraid to challenge the status quo.
 -->
-
-
